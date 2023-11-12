@@ -3,7 +3,7 @@ name: Profile
 on:
   push:
     branches:
-      - gh-pages
+      - main
   schedule:
     - cron: '0 0 * * *'
 
